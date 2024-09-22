@@ -1,2 +1,2 @@
-# Pizza_Sales
+# Pizza_Sales_SQL
 Using SQL Queries
